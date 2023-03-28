@@ -158,6 +158,7 @@ def fStart():
                 # CODIGO DEL JUGADOR - maquina #
                 ################################
                 
+                # Condiciones del juego
                 if (Maquina == vNombres[1] and vUsuario1 == vNombres[0]):
                     print("Perdiste, papel tapa piedra")
                     vVida = vVida + 1
