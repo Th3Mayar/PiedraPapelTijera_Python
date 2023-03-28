@@ -5,6 +5,8 @@ Este juego tiene como objetivo el mismo juego de piedra papel tijera lagarto y s
 
 #### It works in the following way... (Look at the documented file...)
 
+[Click aqui para acceder al .py](/Piedra-Papel-Tijera.py)
+
 ---
 
 ### Create by:
